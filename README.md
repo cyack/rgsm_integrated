@@ -9,7 +9,7 @@ code_together.r – R code that uses data to fit models based on Stan code and p
 int3.stan – Stan code for fitting integrated model with constant mortality rates
 int3re.stan – Stan code for fitting integrated model with time varying mortality rates
 
-##CSV files containing information required to reproduce results and figures in manuscript
+## CSV files containing information required to reproduce results and figures in manuscript
 abq_gage_08330000.csv – daily flow data for USGS gage 08330000 in long format
 aQ.csv – daily flow data for USGS gage 08330000 from March 1st to September 30th organized by year
 ASIRQuery4Combined.csv – RGSM monitoring dataset - subset for analysis, updated version available online
